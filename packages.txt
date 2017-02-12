@@ -1,0 +1,17 @@
+advanced-open-file
+atom-beautify
+autocomplete-paths
+color-picker
+file-icons
+linter
+linter-csslint
+linter-htmlhint
+linter-javac
+linter-jshint
+linter-jsonlint
+linter-php
+merge-conflicts
+project-manager
+seti-syntax
+seti-ui
+unity-ui
